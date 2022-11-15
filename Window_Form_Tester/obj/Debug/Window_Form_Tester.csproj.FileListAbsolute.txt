@@ -1,0 +1,10 @@
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\obj\Debug\Window_Form_Tester.csproj.AssemblyReference.cache
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\obj\Debug\Window_Form_Tester.Properties.Resources.resources
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\obj\Debug\Window_Form_Tester.csproj.GenerateResource.cache
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\obj\Debug\Window_Form_Tester.csproj.CoreCompileInputs.cache
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\bin\Debug\Window_Form_Tester.exe.config
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\bin\Debug\Window_Form_Tester.exe
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\bin\Debug\Window_Form_Tester.pdb
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\obj\Debug\Window_Form_Tester.exe
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\obj\Debug\Window_Form_Tester.pdb
+C:\Users\matt\RiderProjects\Window_Form_Tester\Window_Form_Tester\obj\Debug\Window_Form_Tester.Form1.resources
